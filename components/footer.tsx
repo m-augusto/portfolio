@@ -42,7 +42,7 @@ export function Footer() {
               key={social.id}
               className="size-10 bg-black-200 border-black-300 border rounded-lg cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75"
             >
-              <img src={social.img} alt={social.id} width={20} height={20} />
+              <img src={social.img} alt="social" width={20} height={20} />
             </div>
           ))}
         </div>
