@@ -32,7 +32,6 @@ export function Hero() {
             words="Transforming Concepts into Seamless User Experiencies"
           />
           <p className="text-center md:tracking-wider mb-4 text-balance text-sm md:text-lg lg:text-2xl">
-            {/* Hi, i&apos;m Marcos Augusto, a Next.js Developer based in Cotia" */}
             I'm Marcos Augusto. I'm a frontend developer. I enjoy building sites
             & apps. My focus is React (Next.js).
           </p>
