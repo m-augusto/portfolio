@@ -32,8 +32,8 @@ export function Hero() {
             words="Transforming Concepts into Seamless User Experiencies"
           />
           <p className="text-center md:tracking-wider mb-4 text-balance text-sm md:text-lg lg:text-2xl">
-            I'm Marcos Augusto. I'm a frontend developer. I enjoy building sites
-            & apps. My focus is React (Next.js).
+            I&apos;m Marcos Augusto. I&apos;m a frontend developer. I enjoy
+            building sites & apps. My focus is React (Next.js).
           </p>
           <Link href="#about">
             <MagicButton
